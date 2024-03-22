@@ -1,0 +1,8 @@
+[package]
+name = "sah31m/animations"
+version = "0.1.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "A animation class module made by wrello uploaded via wally package manager https://github.com/wrello/Animations"
+
+[dependencies]
